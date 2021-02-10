@@ -1,0 +1,31 @@
+import java.util.*;
+import javax.swing.*;
+import java.awt.*;
+import java.awt.event.*;
+import java.awt.image.*;
+import java.lang.*;
+import java.awt.image.BufferStrategy;
+import javax.imageio.*;
+import java.io.*;
+
+public class SideMenu {
+     
+     
+     public SideMenu(){
+         
+     }
+     
+     
+     
+     public static void tick(){
+     }
+     
+     public static void render(Graphics g){
+          Graphics2D g2d = (Graphics2D) g;
+          Color transBlack = new Color(0, 0, 0, 127);
+          g.setColor(transBlack);
+          g2d.fillRect(0, 0, 640-185, 500);
+     }
+     
+     
+}

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20120818-r5686">
+  <project autorefresh="false" build="" main="Game" manifest="" root="" work="">
+    <createjar file="Game.jar" flags="12"/>
+    <source>
+      <file active="true" name="MouseMotion.java" package="" timestamp="16-Apr-2018 11:38:41">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="SideMenu.java" package="" timestamp="13-Mar-2018 11:25:19">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="SpriteSheet.java" package="" timestamp="27-Mar-2018 11:01:02">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="BufferedImageLoader.java" package="" timestamp="28-Mar-2018 10:32:36">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="SpectrumTwoPrices.java" package="" timestamp="29-Mar-2018 10:08:04">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="SpectrumTwoGuns.java" package="" timestamp="29-Mar-2018 10:08:04">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="InventoryItem.java" package="" timestamp="29-Mar-2018 10:09:12">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="RanImages.java" package="" timestamp="09-Apr-2018 11:02:16">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="OptionMenu.java" package="" timestamp="10-Apr-2018 10:10:46">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="StatsMenu.java" package="" timestamp="10-Apr-2018 10:12:57">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="Menu.java" package="" timestamp="11-Apr-2018 11:12:09">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="FadeClick.java" package="" timestamp="12-Apr-2018 10:13:49">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="InventoryMenu.java" package="" timestamp="12-Apr-2018 11:04:12">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="SpectrumTwo.java" package="" timestamp="12-Apr-2018 11:30:40">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="ClickMenu.java" package="" timestamp="13-Apr-2018 11:33:49">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="Game.java" package="" timestamp="16-Apr-2018 10:44:05">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="MouseInput.java" package="" timestamp="16-Apr-2018 11:33:31">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+      <file name="UpgradeMenu.java" package="" timestamp="16-Apr-2018 11:37:50">
+        <select from="1867" to="1867"/>
+        <scroll column="617" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences>
+      <preference name="master.jvm.xmx" value="512"/>
+      <preference name="slave.jvm.args" value="-Xms512m"/>
+      <preference name="slave.jvm.xmx" value="512"/>
+      <preference name="master.jvm.args" value="-Xms512m"/>
+    </preferences>
+  </project>
+</drjava>
